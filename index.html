@@ -53,7 +53,6 @@
     {name: "Sarajevo", coords: [43.8563, 18.4131]},       // Bosnien-Hercegovina
     {name: "Sofia", coords: [42.6977, 23.3219]},          // Bulgarien
     {name: "Zagreb", coords: [45.815, 15.9785]},          // Kroatien
-    {name: "Nicosia", coords: [35.1856, 33.3823]},        // Cypern
     {name: "Prague", coords: [50.0755, 14.4378]},         // Tjeckien
     {name: "Copenhagen", coords: [55.6761, 12.5683]},     // Danmark
     {name: "Tallinn", coords: [59.437, 24.7536]},         // Estland
@@ -61,7 +60,6 @@
     {name: "Paris", coords: [48.8566, 2.3522]},           // Frankrike
     {name: "Tbilisi", coords: [41.7151, 44.8271]},        // Georgien
     {name: "Berlin", coords: [52.52, 13.405]},            // Tyskland
-    {name: "Athens", coords: [37.9838, 23.7275]},         // Grekland
     {name: "Budapest", coords: [47.4979, 19.0402]},       // Ungern
     {name: "Reykjavik", coords: [64.1355, -21.8954]},     // Island
     {name: "Dublin", coords: [53.3331, -6.2489]},         // Irland
@@ -70,8 +68,6 @@
     {name: "Riga", coords: [56.9496, 24.1052]},           // Lettland
     {name: "Vilnius", coords: [54.6872, 25.2797]},        // Litauen
     {name: "Luxembourg", coords: [49.6117, 6.13]},        // Luxemburg
-    {name: "Valletta", coords: [35.8997, 14.5146]},       // Malta
-    {name: "Chisinau", coords: [47.0105, 28.8638]},       // Moldavien
     {name: "Monaco", coords: [43.7384, 7.4246]},          // Monaco
     {name: "Podgorica", coords: [42.441, 19.2627]},       // Montenegro
     {name: "Amsterdam", coords: [52.3676, 4.9041]},       // Nederländerna
@@ -132,7 +128,7 @@
 
     // Kör alla städer men med fördröjning (så API:t hinner svara)
     capitals.forEach((c, i) => {
-        setTimeout(() => getCafes(c), i * 3000); // 3 sek mellan varje request
+        setTimeout(() => getCafes(c), i * 2000); // 3 sek mellan varje request
     });
 
     // Lägg till legend
