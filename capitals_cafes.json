@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Tirana",
+    "coords": [
+      41.3275,
+      19.8189
+    ],
+    "cafes": 240
+  },
+  {
+    "name": "Andorra la Vella",
+    "coords": [
+      42.5078,
+      1.5211
+    ],
+    "cafes": 5
+  },
+  {
+    "name": "Yerevan",
+    "coords": [
+      40.1792,
+      44.4991
+    ],
+    "cafes": 62
+  },
+  {
+    "name": "Vienna",
+    "coords": [
+      48.2082,
+      16.3738
+    ],
+    "cafes": 153
+  },
+  {
+    "name": "Baku",
+    "coords": [
+      40.4093,
+      49.8671
+    ],
+    "cafes": 27
+  },
+  {
+    "name": "Minsk",
+    "coords": [
+      53.9,
+      27.5667
+    ],
+    "cafes": 96
+  },
+  {
+    "name": "Sarajevo",
+    "coords": [
+      43.8563,
+      18.4131
+    ],
+    "cafes": 74
+  },
+  {
+    "name": "Sofia",
+    "coords": [
+      42.6977,
+      23.3219
+    ],
+    "cafes": 112
+  },
+  {
+    "name": "Zagreb",
+    "coords": [
+      45.815,
+      15.9785
+    ],
+    "cafes": 126
+  },
+  {
+    "name": "Nicosia",
+    "coords": [
+      35.1856,
+      33.3823
+    ],
+    "cafes": 11
+  },
+  {
+    "name": "Prague",
+    "coords": [
+      50.0755,
+      14.4378
+    ],
+    "cafes": 138
+  },
+  {
+    "name": "Copenhagen",
+    "coords": [
+      55.6761,
+      12.5683
+    ],
+    "cafes": 205
+  },
+  {
+    "name": "Tallinn",
+    "coords": [
+      59.437,
+      24.7536
+    ],
+    "cafes": 121
+  },
+  {
+    "name": "Helsinki",
+    "coords": [
+      60.1699,
+      24.9384
+    ],
+    "cafes": 157
+  },
+  {
+    "name": "Paris",
+    "coords": [
+      48.8566,
+      2.3522
+    ],
+    "cafes": 298
+  },
+  {
+    "name": "Berlin",
+    "coords": [
+      52.52,
+      13.405
+    ],
+    "cafes": 104
+  },
+  {
+    "name": "Athens",
+    "coords": [
+      37.9838,
+      23.7275
+    ],
+    "cafes": 372
+  },
+  {
+    "name": "Budapest",
+    "coords": [
+      47.4979,
+      19.0402
+    ],
+    "cafes": 78
+  },
+  {
+    "name": "Reykjavik",
+    "coords": [
+      64.1355,
+      -21.8954
+    ],
+    "cafes": 6
+  },
+  {
+    "name": "Rome",
+    "coords": [
+      41.9028,
+      12.4964
+    ],
+    "cafes": 143
+  },
+  {
+    "name": "Pristina",
+    "coords": [
+      42.6629,
+      21.1655
+    ],
+    "cafes": 123
+  },
+  {
+    "name": "Riga",
+    "coords": [
+      56.9496,
+      24.1052
+    ],
+    "cafes": 71
+  },
+  {
+    "name": "Vilnius",
+    "coords": [
+      54.6872,
+      25.2797
+    ],
+    "cafes": 80
+  },
+  {
+    "name": "Luxembourg",
+    "coords": [
+      49.6117,
+      6.13
+    ],
+    "cafes": 35
+  },
+  {
+    "name": "Valletta",
+    "coords": [
+      35.8997,
+      14.5146
+    ],
+    "cafes": 43
+  },
+  {
+    "name": "Chisinau",
+    "coords": [
+      47.0105,
+      28.8638
+    ],
+    "cafes": 15
+  },
+  {
+    "name": "Monaco",
+    "coords": [
+      43.7384,
+      7.4246
+    ],
+    "cafes": 21
+  },
+  {
+    "name": "Podgorica",
+    "coords": [
+      42.441,
+      19.2627
+    ],
+    "cafes": 46
+  },
+  {
+    "name": "Amsterdam",
+    "coords": [
+      52.3676,
+      4.9041
+    ],
+    "cafes": 138
+  },
+  {
+    "name": "Skopje",
+    "coords": [
+      41.9981,
+      21.4254
+    ],
+    "cafes": 93
+  },
+  {
+    "name": "Oslo",
+    "coords": [
+      59.9139,
+      10.7522
+    ],
+    "cafes": 116
+  },
+  {
+    "name": "Warsaw",
+    "coords": [
+      52.2297,
+      21.0122
+    ],
+    "cafes": 154
+  },
+  {
+    "name": "Bucharest",
+    "coords": [
+      44.4268,
+      26.1025
+    ],
+    "cafes": 53
+  },
+  {
+    "name": "Moscow",
+    "coords": [
+      55.7558,
+      37.6173
+    ],
+    "cafes": 105
+  },
+  {
+    "name": "San Marino",
+    "coords": [
+      43.9336,
+      12.4508
+    ],
+    "cafes": 6
+  },
+  {
+    "name": "Belgrade",
+    "coords": [
+      44.8176,
+      20.4569
+    ],
+    "cafes": 171
+  },
+  {
+    "name": "Bratislava",
+    "coords": [
+      48.1486,
+      17.1077
+    ],
+    "cafes": 164
+  },
+  {
+    "name": "Ljubljana",
+    "coords": [
+      46.0569,
+      14.5058
+    ],
+    "cafes": 63
+  },
+  {
+    "name": "Madrid",
+    "coords": [
+      40.4168,
+      -3.7038
+    ],
+    "cafes": 238
+  },
+  {
+    "name": "Stockholm",
+    "coords": [
+      59.3293,
+      18.0686
+    ],
+    "cafes": 137
+  },
+  {
+    "name": "Bern",
+    "coords": [
+      46.9481,
+      7.4474
+    ],
+    "cafes": 57
+  },
+  {
+    "name": "Ankara",
+    "coords": [
+      39.9334,
+      32.8597
+    ],
+    "cafes": 7
+  },
+  {
+    "name": "Kyiv",
+    "coords": [
+      50.4501,
+      30.5234
+    ],
+    "cafes": 119
+  },
+  {
+    "name": "London",
+    "coords": [
+      51.5072,
+      -0.1276
+    ],
+    "cafes": 248
+  }
+]
